@@ -1,0 +1,33 @@
+#malo{background-color: red;}
+li{ font-size: large;
+        outline: auto;
+}
+#buenos{background-color: blue;
+}
+#luke{
+        font-size: large;
+}
+#soldado{ border: solid;
+        color: red;
+        text-align: center;
+        letter-spacing: 5px;
+}
+.naves{border: solid;
+        color: red;
+        text-align: center;
+        letter-spacing: 5px;
+        -ms-text-size-adjust: 100%;
+}
+#apoyo{border: solid;
+        color: crimson;
+        text-align: right;
+}
+.caminante{border: solid;
+        color: chartreuse ;
+        text-align: left;
+}
+.droides{border: solid;
+        color: greenyellow;
+        text-align: center;
+
+}
